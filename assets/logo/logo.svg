@@ -1,0 +1,36 @@
+<svg width="600" height="220" viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="600" height="220" fill="white"/>
+
+  <!-- Tooth -->
+  <path d="M120 40
+           C80 40, 55 75, 55 120
+           C55 170, 85 190, 105 160
+           C115 140, 118 140, 120 170
+           C122 140, 125 140, 135 160
+           C155 190, 185 170, 185 120
+           C185 75, 160 40, 120 40 Z"
+        fill="#0a7cff"/>
+
+  <!-- Smile -->
+  <path d="M80 125 Q120 155 160 125"
+        stroke="white" stroke-width="6"
+        fill="none" stroke-linecap="round"/>
+
+  <!-- Brand Text -->
+  <text x="250" y="110"
+        font-size="34"
+        font-family="Arial"
+        font-weight="bold"
+        fill="#0a4c8b">
+    Martin Dental Clinic
+  </text>
+
+  <text x="250" y="145"
+        font-size="16"
+        font-family="Arial"
+        fill="#666">
+    Advanced Dental Care • Smile Design • Implants
+  </text>
+
+</svg>
